@@ -6,7 +6,7 @@ plugins {
 apply plugin: 'maven-publish'
 
 version = project.mod_version
-group = project.group
+group = 'com.github.VeryWeirdUser'
 
 base {
 	archivesName = "funtime_utils"
